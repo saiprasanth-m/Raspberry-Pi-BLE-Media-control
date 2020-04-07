@@ -15,8 +15,8 @@ Controlling any bluetooth media device that is connected to *Raspberry Pi* where
 # Installation
 
 1. To install bluez on raspberry pi, find here https://learn.adafruit.com/install-bluez-on-the-raspberry-pi/installation for step-by-step procedure of proper installation.
-2. To install dbus-python, use "pip install dbus-python" command
-3. To install PyQt GUI toolkit, use "pip install PyQt5" command
+2. To install dbus-python, use "sudo apt-get install python-dbus" command
+3. To install PyQt GUI toolkit, use "sudo apt-get install python-qt4" command
 
 Dependencies:
 

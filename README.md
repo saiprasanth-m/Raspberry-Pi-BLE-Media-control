@@ -20,6 +20,6 @@ Controlling any bluetooth media device that is connected to [*Raspberry Pi*](htt
 
 Dependencies:
 
-bluez >= 5.0
-dbus-python >= 1.2.8
-PyQt >= 4
+1. bluez >= 5.0
+2. dbus-python >= 1.2.8
+3. PyQt >= 4

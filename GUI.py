@@ -64,7 +64,7 @@ class App(QtGui.QMainWindow):
         self.b9 = QtGui.QPushButton("",self.w)
         self.b9.move(0+40,90)
         self.b9.resize(40,30)
-        self.b9.setIcon(QtGui.QIcon(QtGui.QPixmap("Icons/rewind\.png")))
+        self.b9.setIcon(QtGui.QIcon(QtGui.QPixmap("Icons/rewind.png")))
 
         self.b10 = QtGui.QPushButton("",self.w)
         self.b10.move(290+40,90)

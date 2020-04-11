@@ -1,6 +1,6 @@
 # Bluetooth Media Control-AVRCP
 
-Controlling any bluetooth media device that is connected to *Raspberry Pi* where Pi acts as a remote controller. Any media playing in the device connected to the raspberry pi via bluetooth can be controlled with the program written. The program contains two part where the linkage of d-bus and Pi's bluetooth found in [*remote.py*](https://github.com/saiprasanth-m/Raspberry-Pi/blob/master/Bluetooth%20Media%20control-AVRCP/remote.py) and a simple media player GUI can be found in [*GUI.py*](https://github.com/saiprasanth-m/Bluetooth-Media-control-AVRCP/blob/master/GUI.py)
+Controlling any bluetooth media device that is connected to [*Raspberry Pi*](https://www.raspberrypi.org/products/raspberry-pi-4-model-b/) where Pi acts as a remote controller. Any media playing in the device connected to the raspberry pi via bluetooth can be controlled with the program written. The program contains two part where the linkage of d-bus and Pi's bluetooth found in [*remote.py*](https://github.com/saiprasanth-m/Raspberry-Pi/blob/master/Bluetooth%20Media%20control-AVRCP/remote.py) and a simple media player GUI can be found in [*GUI.py*](https://github.com/saiprasanth-m/Bluetooth-Media-control-AVRCP/blob/master/GUI.py)
 
 # D-Bus
 
